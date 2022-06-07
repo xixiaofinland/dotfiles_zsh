@@ -73,6 +73,7 @@ ZSH_THEME="ys"
 # Alias
 alias gs="git status"
 alias e="exit"
+alias c="clear"
 
 
 # Which plugins would you like to load?
