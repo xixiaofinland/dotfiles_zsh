@@ -74,6 +74,7 @@ ZSH_THEME="ys"
 alias gs="git status"
 alias e="exit"
 alias c="clear"
+alias vim='nvim'
 
 
 # Which plugins would you like to load?
